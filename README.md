@@ -5,6 +5,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Followers](https://img.shields.io/github/followers/darhaiderimam?style=social)](https://github.com/darhaiderimam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-darhaiderimam-0A66C2?logo=linkedin)](https://www.linkedin.com/in/darhaiderimam)
 
 ---
 
@@ -44,4 +45,4 @@ cd adaudit && python -m adaudit.cli analyze export.csv --target-cpa 30
 
 ## 📬 Connect
 - **GitHub:** [github.com/darhaiderimam](https://github.com/darhaiderimam)
-- **LinkedIn:** [linkedin.com/in/darhaiderimam](https://linkedin.com)
+- **LinkedIn:** [linkedin.com/in/darhaiderimam](https://www.linkedin.com/in/darhaiderimam)
